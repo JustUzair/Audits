@@ -16,9 +16,9 @@ For private audits or collaboration, please reach out to me on Twitter [*@0xJust
 
 | Protocol | Category | Report |
 | - | - | :-: |
-| [Swell <> Symbiotic Adapter](https://app.symbiotic.fi/restake/) | Re-staking, Utility | [📄 TBA](TBA) |
-| [TxFusion <> Tsuko Paymaster-As-A-Service](https://app.txsync.io/tsuko) | AA Paymasters | [📄 TBA](#) |
-| [DefX <> DefX-Bridge](https://docs.defx.com/docs) | Bridge | [📄 Ongoing](#) |
+| [Swell <> Symbiotic Adapter](https://app.symbiotic.fi/restake/){target="_blank"} | Re-staking, Utility | [📄 TBA](TBA) |
+| [TxFusion <> Tsuko Paymaster-As-A-Service](https://app.txsync.io/tsuko){target="_blank"} | AA Paymasters | [📄 TBA](#) |
+| [DefX <> DefX-Bridge](https://docs.defx.com/docs){target="_blank"} | Bridge | [📄 Ongoing](#) |
 
 
 ### Private Audits
