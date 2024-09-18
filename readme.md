@@ -37,39 +37,39 @@ Reports for all audit contests can be found [here](/contests/).
 |Total Findings||||| 2 | -->
 
 <style>
-        body {
-            font-family: 'Poppins', sans-serif;
-        }
-        table {
-            border-collapse: collapse;
-            width: 100%;
-        }
-        th, td {
-            border-left: 2px solid rgba(51, 51, 51, 0.5);
-            border-right: 2px solid rgba(51, 51, 51, 0.5);
-            padding: 10px;
-            text-align: center;
-        }
-        th {
-            border-top: 3px solid rgba(51, 51, 51, 0.9);
-            border-bottom: 3px solid rgba(51, 51, 51, 0.9);
-            background-color: rgba(51, 51, 51, 0.9);
-            color: white;
-        }
-        tr:nth-child(even) {
-            background-color: rgba(240, 240, 240, 0.5); /* Light gray */
-        }
-        tr:nth-child(odd) {
-            background-color: rgba(255, 255, 255, 1); /* White */
-        }
-        tr:last-child td {
-            border-bottom: 3px solid rgba(51, 51, 51, 0.9);
-        }
-        tr:last-child td:first-child,
-        tr:last-child td:last-child {
-            border-left: 2px solid rgba(51, 51, 51, 0.5);
-            border-right: 2px solid rgba(51, 51, 51, 0.5);
-        }
+    body {
+        font-family: 'Poppins', sans-serif;
+    }
+    table {
+        border-collapse: collapse;
+        width: 100%;
+    }
+    th, td {
+        border-left: 2px solid rgba(51, 51, 51, 0.5);
+        border-right: 2px solid rgba(51, 51, 51, 0.5);
+        padding: 10px;
+        text-align: center;
+    }
+    th {
+        border-top: 3px solid rgba(51, 51, 51, 0.9);
+        border-bottom: 3px solid rgba(51, 51, 51, 0.9);
+        background-color: rgba(51, 51, 51, 0.9);
+        color: white;
+    }
+    tr:nth-child(even) {
+        background-color: rgba(240, 240, 240, 0.5); /* Light gray */
+    }
+    tr:nth-child(odd) {
+        background-color: rgba(255, 255, 255, 1); /* White */
+    }
+    tr:last-child td {
+        border-bottom: 3px solid rgba(51, 51, 51, 0.9);
+    }
+    tr:last-child td:first-child,
+    tr:last-child td:last-child {
+        border-left: 2px solid rgba(51, 51, 51, 0.5);
+        border-right: 2px solid rgba(51, 51, 51, 0.5);
+    }
 </style>
 
 
