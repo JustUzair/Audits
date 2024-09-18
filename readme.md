@@ -35,40 +35,46 @@ Reports for all audit contests can be found [here](/contests/).
 | - | - | :-: | :-: | - | - |
 | [TraitForge](https://code4rena.com/audits/2024-07-traitforge) | NFT |  | [📄](/contests/c4/2024-07-traitforge.md) | `1H 1M` | 2 |
 |Total Findings||||| 2 | -->
-<style>
-    table {
-        border-collapse: collapse;
-        width: 100%;
-    }
-    th, td {
-        border-left: 2px solid rgba(51, 51, 51, 0.7);
-        border-right: 2px solid rgba(51, 51, 51, 0.7);
-        padding: 10px;
-        text-align: center;
-    }
-    th {
-        border-top: 3px solid rgba(51, 51, 51, 0.9);
-        border-bottom: 3px solid rgba(51, 51, 51, 0.9);
-        background-color: rgba(51, 51, 51, 0.9);
-        color: white;
-    }
-    tr:nth-child(even) {
-        background-color: rgba(30, 30, 30, 0.8); /* Darker shade */
-        color: white;
-    }
-    tr:nth-child(odd) {
-        background-color: rgba(51, 51, 51, 0.7); /* Slightly lighter shade */
-        color: white;
-    }
-    tr:last-child td {
-        border-bottom: 3px solid rgba(51, 51, 51, 0.9);
-    }
-    tr:last-child td:first-child,
-    tr:last-child td:last-child {
-        border-left: 2px solid rgba(51, 51, 51, 0.7);
-        border-right: 2px solid rgba(51, 51, 51, 0.7);
-    }
-</style>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Poppins', sans-serif;
+        }
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+        th, td {
+            border-left: 2px solid rgba(51, 51, 51, 0.5);
+            border-right: 2px solid rgba(51, 51, 51, 0.5);
+            padding: 10px;
+            text-align: center;
+        }
+        th {
+            border-top: 3px solid rgba(51, 51, 51, 0.9);
+            border-bottom: 3px solid rgba(51, 51, 51, 0.9);
+            background-color: rgba(51, 51, 51, 0.9);
+            color: white;
+        }
+        tr:nth-child(even) {
+            background-color: rgba(240, 240, 240, 0.5); /* Light gray */
+        }
+        tr:nth-child(odd) {
+            background-color: rgba(255, 255, 255, 1); /* White */
+        }
+        tr:last-child td {
+            border-bottom: 3px solid rgba(51, 51, 51, 0.9);
+        }
+        tr:last-child td:first-child,
+        tr:last-child td:last-child {
+            border-left: 2px solid rgba(51, 51, 51, 0.5);
+            border-right: 2px solid rgba(51, 51, 51, 0.5);
+        }
+    </style>
+</head>
 
 <table>
     <thead>
