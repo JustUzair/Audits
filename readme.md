@@ -16,9 +16,9 @@ For private audits or collaboration, please reach out to me on Twitter [*@0xJust
 
 | Protocol | Category | Report |
 | - | - | :-: |
-| [Swell <> Symbiotic Adapter](#) | Re-staking, Utility | [📄 TBA](TBA) |
-| [TxFusion <> Tsuko Paymaster-As-A-Service](#) | AA Paymasters | [📄 TBA](TBA) |
-| [DefX <> DefX-Bridge](#) | AA Paymasters | [📄 TBA](TBA) |
+| [Swell <> Symbiotic Adapter](#) | Re-staking, Utility | [📄 TBA](#) |
+| [TxFusion <> Tsuko Paymaster-As-A-Service](#) | AA Paymasters | [📄 TBA](#) |
+| [DefX <> DefX-Bridge](#) | AA Paymasters | [📄 TBA](#) |
 
 
 ### Private Audits
@@ -35,11 +35,8 @@ Reports for all audit contests can be found [here](/contests/).
 | - | - | :-: | :-: | - | - |
 | [TraitForge](https://code4rena.com/audits/2024-07-traitforge) | NFT |  | [📄](/contests/c4/2024-07-traitforge.md) | `1H 1M` | 2 |
 |Total Findings||||| 2 | -->
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
-    <style>
+
+<style>
         body {
             font-family: 'Poppins', sans-serif;
         }
@@ -73,8 +70,8 @@ Reports for all audit contests can be found [here](/contests/).
             border-left: 2px solid rgba(51, 51, 51, 0.5);
             border-right: 2px solid rgba(51, 51, 51, 0.5);
         }
-    </style>
-</head>
+</style>
+
 
 <table>
     <thead>
