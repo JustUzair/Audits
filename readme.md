@@ -33,8 +33,8 @@ Reports for all audit contests can be found [here](/contests/).
 
 | Contest | Category | Ranking | Report | No. of Findings | Total |
 | - | - | :-: | :-: | :-: | :-: |
-| [Phi](https://code4rena.com/audits/2024-08-phi) | On-Chain Identity | - | [📄](/contests/c4/2024-08-phi.md) | - | - |
+| [Phi](https://code4rena.com/audits/2024-08-phi) | On-Chain Identity | NA | [📄](/contests/c4/2024-08-phi.md) | `1H` | 1 |
 | [TraitForge](https://code4rena.com/audits/2024-07-traitforge) | NFT | NA  | [📄](/contests/c4/2024-07-traitforge.md) | `1H, 1M` | 2 |
-|`Total Findings`|-|-|-|-| 2 |
+|`Total Findings`|-|-|-|-| 3 |
 
 <!-- | [CONTEST NAME](<CONTEST-LINK>) | <CATEGORY> | RANKING 🥇🥈🥉🎖️ | [📄](/contests/pdf/<FILENAME>) | #NO | -->
