@@ -18,7 +18,11 @@ For private audits or collaboration, please reach out to me on Twitter [*@0xJust
 | - | - | :-: |
 | [Swell <> Symbiotic Adapter](https://app.symbiotic.fi/restake/) | Re-staking, Utility | [📄 TBA](TBA) |
 | [TxFusion <> Tsuko Paymaster-As-A-Service](https://app.txsync.io/tsuko) | AA Paymasters | [📄 TBA](#) |
-| [DefX <> DefX-Bridge](https://docs.defx.com/docs) | Bridge | [📄 Ongoing](#) |
+| [DefX <> DefX-Bridge](https://docs.defx.com/docs) | Bridge | [📄 TBA](#) |
+| [Cartridge <> Cartdrige-Controller](https://docs.cartridge.gg/controller/overview) | Gaming, Wallets | Learnt Cairo |
+| [zBanc <> Wilderworld ](#) | ERC20, ERC4626 | [📄 Ongoing](#) |
+
+
 
 
 ### Private Audits
