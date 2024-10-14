@@ -14,13 +14,13 @@ For private audits or collaboration, please reach out to me on Twitter [*@0xJust
 
 ### [Nethermind](https://github.com/NethermindEth/) ![Nethermind Logo](https://avatars.githubusercontent.com/u/43478154?s=20) 
 
-| Protocol | Category | Report |
-| - | - | :-: |
-| [Swell <> Symbiotic Adapter](https://app.symbiotic.fi/restake/) | Re-staking, Utility | [📄 TBA](TBA) |
-| [TxFusion <> Tsuko Paymaster-As-A-Service](https://app.txsync.io/tsuko) | AA Paymasters | [📄 TBA](#) |
-| [DefX <> DefX-Bridge](https://docs.defx.com/docs) | Bridge | [📄 TBA](#) |
-| [Cartridge <> Cartdrige-Controller](https://docs.cartridge.gg/controller/overview) | Gaming, Wallets | Learnt Cairo |
-| [zBanc <> Wilderworld ](#) | ERC20, ERC4626 | [📄 Ongoing](#) |
+| Protocol | Category | Written in | Report |
+| - | - | :-: | :-: |
+| [Swell <> Symbiotic Adapter](https://app.symbiotic.fi/restake/) | Re-staking, Utility | Solidity | [📄 TBA](/) |
+| [TxFusion <> Tsuko Paymaster-As-A-Service](https://app.txsync.io/tsuko) | AA Paymasters | Solidity | [📄 TBA](/) |
+| [DefX <> DefX-Bridge](https://docs.defx.com/docs) | Bridge | Solidity | [📄 TBA](/) |
+| [Cartridge <> Cartdrige-Controller](https://docs.cartridge.gg/controller/overview) | Gaming, Wallets | Cairo | [📄 TBA](/) |
+| [zBanc <> Wilderworld ](/) | ERC20, ERC4626 | Solidity | [📄 Ongoing](/) |
 
 
 
