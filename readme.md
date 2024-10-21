@@ -20,7 +20,9 @@ For private audits or collaboration, please reach out to me on Twitter [*@0xJust
 | [TxFusion <> Tsuko Paymaster-As-A-Service](https://app.txsync.io/tsuko) | AA Paymasters | Solidity | [📄 TBA](/) |
 | [DefX <> DefX-Bridge](https://docs.defx.com/docs) | Bridge | Solidity | [📄 TBA](/) |
 | [Cartridge <> Cartdrige-Controller](https://docs.cartridge.gg/controller/overview) | Gaming, Wallets | Cairo | [📄 TBA](/) |
-| [zBanc <> Wilderworld ](/) | ERC20, ERC4626 | Solidity | [📄 Ongoing](/) |
+| [zBanc <> Wilderworld ](/) | ERC20, ERC4626 | Solidity | [📄 TBA](/) |
+| [Mangrove <> Mangrove-Vault ](/) | Vault, Oracles | Solidity | [📄 Ongoing](/) |
+
 
 
 
