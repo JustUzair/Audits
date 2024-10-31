@@ -21,7 +21,9 @@ For private audits or collaboration, please reach out to me on Twitter [*@0xJust
 | [DefX <> DefX-Bridge](https://docs.defx.com/docs) | Bridge | Solidity | [📄 TBA](/) |
 | [Cartridge <> Cartdrige-Controller](https://docs.cartridge.gg/controller/overview) | Gaming, Wallets | Cairo | [📄 TBA](/) |
 | [zBanc <> Wilderworld ](/) | ERC20, ERC4626 | Solidity | [📄 TBA](/) |
-| [Mangrove <> Mangrove-Vault ](/) | Vault, Oracles | Solidity | [📄 Ongoing](/) |
+| [Mangrove <> Mangrove-Vault ](/) | Vault, Oracles | Solidity | [📄 TBA](/) |
+| [Berachain <> Berachain-Governance ](/) | Governance | Solidity | [📄 Ongoing](/) |
+
 
 
 
