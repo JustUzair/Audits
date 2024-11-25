@@ -23,7 +23,7 @@ For private audits or collaboration, please reach out to me on Twitter [*@0xJust
 | [zBanc <> Wilderworld ](/) | ERC20, ERC4626 | Solidity | [📄 TBA](/) |
 | [Mangrove <> Mangrove-Vault ](/) | Vault, Oracles | Solidity | [📄 TBA](/) |
 | [Berachain <> Berachain-Governance ](/) | Governance | Solidity | [📄 TBA](/) |
-| [Berachain <> Berachain-Proof-Of-Liquidity ](/) | Staking | Solidity | [📄 Ongoing](/) | 
+| [Berachain <> Berachain-Proof-Of-Liquidity ](/) | Staking | Solidity | [📄 TBA](/) | 
 
 
 
