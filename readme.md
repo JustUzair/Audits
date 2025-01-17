@@ -2,7 +2,7 @@
 
 ## About 0xJustUzair
 
-Security Researcher (Intern) [*@Nethermind*](https://github.com/NethermindEth/) | Full Stack Web2 🌐 & Web3⛓️ Engineer | 2x 🏆 Global Hackathon Winner, transitioning to Web3 security and aiming to become an independent security researcher.
+Web3 Security Researcher | Full Stack Web2 🌐 & Web3⛓️ Engineer | 2x 🏆 Global Hackathon Winner, transitioning to Web3 security and aiming to become an independent security researcher.
 
 For private audits or collaboration, please reach out to me on Twitter [*@0xJustUzair*](https://twitter.com/0xJustUzair).
 
@@ -12,7 +12,7 @@ For private audits or collaboration, please reach out to me on Twitter [*@0xJust
 
 ## Engagements
 
-### [Nethermind](https://github.com/NethermindEth/) ![Nethermind Logo](https://avatars.githubusercontent.com/u/43478154?s=20) 
+### [Nethermind](https://github.com/NethermindEth/) ![Nethermind Logo](https://avatars.githubusercontent.com/u/43478154?s=20) (Internship)
 
 | Protocol | Category | Written in | Report |
 | - | - | :-: | :-: |
@@ -43,6 +43,7 @@ Reports for all audit contests can be found [here](/contests/).
 
 | Contest | Category | Ranking | Report | No. of Findings | Total |
 | - | - | :-: | :-: | :-: | :-: |
+| [SecondSwap](https://code4rena.com/audits/2024-12-secondswap) | Token Vesting, Marketplace | NA | [📄]() | `TBD` | TBD |
 | [Phi](https://code4rena.com/audits/2024-08-phi) | On-Chain Identity, NFT | NA | [📄](/contests/c4/2024-08-phi.md) | `1H` | 1 |
 | [TraitForge](https://code4rena.com/audits/2024-07-traitforge) | NFT | NA  | [📄](/contests/c4/2024-07-traitforge.md) | `1H, 1M` | 2 |
 |`Total Findings`|-|-|-|-| 3 |
