@@ -44,6 +44,7 @@ Reports for all audit contests can be found [here](/contests/).
 | Contest | Category | Ranking | Report | No. of Findings | Total |
 | - | - | :-: | :-: | :-: | :-: |
 | [SecondSwap](https://code4rena.com/audits/2024-12-secondswap) | Token Vesting, Marketplace | NA | [📄]() | `TBD` | TBD |
+| [Omni Network](https://cantina.xyz/competitions/d139882b-2d3a-49ac-9849-9dccef584090) | Blockchain Network, Bridge | NA | [📄]() | `TBD` | TBD |
 | [Phi](https://code4rena.com/audits/2024-08-phi) | On-Chain Identity, NFT | NA | [📄](/contests/c4/2024-08-phi.md) | `1H` | 1 |
 | [TraitForge](https://code4rena.com/audits/2024-07-traitforge) | NFT | NA  | [📄](/contests/c4/2024-07-traitforge.md) | `1H, 1M` | 2 |
 |`Total Findings`|-|-|-|-| 3 |
