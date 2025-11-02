@@ -12,7 +12,7 @@ For private audits or collaboration, please reach out to me on Twitter [*@0xJust
 
 ## Engagements
 
-### [Nethermind](https://github.com/NethermindEth/) ![Nethermind Logo](https://avatars.githubusercontent.com/u/43478154?s=20) (Internship)
+### [Nethermind](https://github.com/NethermindEth/) ![Nethermind Logo](https://avatars.githubusercontent.com/u/43478154?s=20)
 
 | Protocol | Category | Written in | Report |
 | - | - | :-: | :-: |
