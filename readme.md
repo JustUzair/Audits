@@ -34,14 +34,7 @@ Check out the issues [here](https://gist.github.com/JustUzair/603696b2b6f88b85ee
 | - | - | :-: | :-: |
 | [FractalLaunchpad](https://github.com/FractalVisionsNFT/FractalLaunchpad) | Launchpad, NFT | Solidity | *In Progress* |
 
-
-
-
-<!-- ### Private Audits
-
-| Protocol | Category | Report |
-| - | - | :-: |-->
-<!-- | [Placeholder](<protocol-url-link>) | <Category> | [📄](/engagements/nethermind/<FILENAME>) | -->
+---
 
 ## Public Audit Contests
 
