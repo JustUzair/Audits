@@ -29,6 +29,12 @@ Check out the issues [here](https://gist.github.com/JustUzair/603696b2b6f88b85ee
 
 ---
 
+### Guild Audits 
+| Protocol | Category | Written in | Status |
+| - | - | :-: | :-: |
+| [FractalLaunchpad](https://github.com/FractalVisionsNFT/FractalLaunchpad) | Launchpad, NFT | Solidity | *In Progress* |
+
+
 
 
 <!-- ### Private Audits
@@ -43,6 +49,8 @@ Reports for all audit contests can be found [here](/contests/).
 
 | Contest | Category | No. of Findings | Total |
 | - | - | - | - |
+| [Sequence Transaction Rails](https://code4rena.com/audits/2025-11-sequence-transaction-rails) | Multichain Wallet Infra | *(Results TBA)* | *(Results TBA)* |
+| [Reflector V3](https://code4rena.com/audits/2025-10-reflector-v3) | Oracle (Rust - Soroban) | *(Results TBA)* | *(Results TBA)* |
 | [SecondSwap](https://code4rena.com/audits/2024-12-secondswap) | Token Vesting, Marketplace | `1M` | 1 |
 | [Omni Network](https://cantina.xyz/competitions/d139882b-2d3a-49ac-9849-9dccef584090) | Blockchain Network, Bridge | `1 QA` | 1 |
 | [Phi](https://code4rena.com/audits/2024-08-phi) | On-Chain Identity, NFT | `1H` | 1 |
