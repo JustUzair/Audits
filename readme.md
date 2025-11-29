@@ -29,10 +29,17 @@ Check out the issues [here](https://gist.github.com/JustUzair/603696b2b6f88b85ee
 
 ---
 
+### [Shieldify](https://www.shieldify.org/) 
+| Protocol | Category | Written in | Status |
+| - | - | :-: | :-: |
+| [Abster <> FreeFall]([https://github.com/FractalVisionsNFT/FractalLaunchpad](https://www.abster.xyz/)) | GameFi, LP | Solidity | *In Progress* |
+
+---
+
 ### Guild Audits 
 | Protocol | Category | Written in | Status |
 | - | - | :-: | :-: |
-| [FractalLaunchpad](https://github.com/FractalVisionsNFT/FractalLaunchpad) | Launchpad, NFT | Solidity | *In Progress* |
+| [FractalLaunchpad <> FractalVisionsNFT](https://github.com/FractalVisionsNFT/FractalLaunchpad) | Launchpad, NFT, Proxies | Solidity | *In Progress* |
 
 ---
 
