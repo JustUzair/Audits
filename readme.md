@@ -49,7 +49,7 @@ Reports for all audit contests can be found [here](/contests/).
 
 | Contest | Category | No. of Findings | Total |
 | - | - | - | - |
-| [Sequence Transaction Rails](https://code4rena.com/audits/2025-11-sequence-transaction-rails) | Multichain Wallet Infra | *(Results TBA)* | *(Results TBA)* |
+| [Sequence Transaction Rails](https://code4rena.com/audits/2025-11-sequence-transaction-rails) | Multichain Wallet Infra | `2L` | 2 |
 | [Reflector V3](https://code4rena.com/audits/2025-10-reflector-v3) | Oracle (Rust - Soroban) | *(Results TBA)* | *(Results TBA)* |
 | [SecondSwap](https://code4rena.com/audits/2024-12-secondswap) | Token Vesting, Marketplace | `1M` | 1 |
 | [Omni Network](https://cantina.xyz/competitions/d139882b-2d3a-49ac-9849-9dccef584090) | Blockchain Network, Bridge | `1 QA` | 1 |
