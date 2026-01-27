@@ -55,6 +55,6 @@ Reports for all audit contests can be found [here](/contests/).
 | [Omni Network](https://cantina.xyz/competitions/d139882b-2d3a-49ac-9849-9dccef584090) | Blockchain Network, Bridge | `1 QA` | 1 |
 | [Phi](https://code4rena.com/audits/2024-08-phi) | On-Chain Identity, NFT | `1H` | 1 |
 | [TraitForge](https://code4rena.com/audits/2024-07-traitforge) | NFT | `1H, 1M` | 2 |
-| **Total Findings** | - | - | **5** |
+
 
 <!-- | [CONTEST NAME](<CONTEST-LINK>) | <CATEGORY> | RANKING 🥇🥈🥉🎖️ | [📄](/contests/pdf/<FILENAME>) | #NO | -->
