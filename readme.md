@@ -32,7 +32,7 @@ Check out the issues [here](https://gist.github.com/JustUzair/603696b2b6f88b85ee
 ### [Shieldify](https://www.shieldify.org/) 
 | Protocol | Category | Written in | Status |
 | - | - | :-: | :-: |
-| [Abster <> FreeFall](https://www.abster.xyz/) | GameFi, LP | Solidity | *In Progress* |
+| [Abster <> FreeFall](https://www.abster.xyz/) | GameFi, LP | Solidity | *Report In Progress* |
 
 ---
 
