@@ -2,7 +2,7 @@
 
 ## About 0xJustUzair
 
-Web3 Security Researcher | Full Stack Web2 🌐 & Web3⛓️ Engineer | 2x 🏆 Global Hackathon Winner, transitioning to Web3 security and aiming to become an independent security researcher.
+Web3 Security Researcher | Solidity, Rust, Solana, Move | prev. Security Researcher at Nethermind | 2x Web3 Hackathon Winner
 
 For private audits or collaboration, please reach out to me on Twitter [*@0xJustUzair*](https://twitter.com/0xJustUzair).
 
