@@ -39,7 +39,7 @@ Check out the issues [here](https://gist.github.com/JustUzair/603696b2b6f88b85ee
 ### Guild Audits 
 | Protocol | Category | Written in | Status |
 | - | - | :-: | :-: |
-| [FractalLaunchpad <> FractalVisionsNFT](https://github.com/FractalVisionsNFT/FractalLaunchpad) | Launchpad, NFT, Proxies | Solidity | *In Progress* |
+| [FractalLaunchpad <> FractalVisionsNFT](https://github.com/FractalVisionsNFT/FractalLaunchpad) | Launchpad, NFT, Proxies | Solidity | *Report not public* |
 
 ---
 
