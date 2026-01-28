@@ -6,9 +6,9 @@ Web3 Security Researcher | Full Stack Web2 🌐 & Web3⛓️ Engineer | 2x 🏆 
 
 For private audits or collaboration, please reach out to me on Twitter [*@0xJustUzair*](https://twitter.com/0xJustUzair).
 
-### Highlights
+<!-- ### Highlights
 
-- [Aggregated Audits Portfolio](https://audits.sherlock.xyz/watson/JustUzair)
+- [Aggregated Audits Portfolio](https://audits.sherlock.xyz/watson/JustUzair) -->
 
 ## Engagements
 
@@ -39,13 +39,13 @@ Check out the issues [here](https://gist.github.com/JustUzair/603696b2b6f88b85ee
 ### Guild Audits 
 | Protocol | Category | Written in | Status |
 | - | - | :-: | :-: |
-| [FractalLaunchpad <> FractalVisionsNFT](https://github.com/FractalVisionsNFT/FractalLaunchpad) | Launchpad, NFT, Proxies | Solidity | *Report not Public* |
+| [FractalLaunchpad <> FractalVisionsNFT](https://github.com/FractalVisionsNFT/FractalLaunchpad) | Launchpad, NFT, Proxies | Solidity | *In Progress* |
 
 ---
 
 ## Public Audit Contests
 
-Reports for all audit contests can be found [here](/contests/).
+<!-- Reports for all audit contests can be found [here](/contests/).-->
 
 | Contest | Category | No. of Findings | Total |
 | - | - | - | - |
