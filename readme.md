@@ -33,7 +33,7 @@ Check out the issues [here](https://gist.github.com/JustUzair/603696b2b6f88b85ee
 | Protocol | Category | Written in | Status |
 | - | - | :-: | :-: |
 | [Abster <> FreeFall](https://www.abster.xyz/) | GameFi, LP | Solidity | *Report In Progress* |
-| [Onchain Heroes <> MoG (Maze of Gains)](https://www.onchainheroes.xyz/) | GameFi, Vaults, Proxies | Solidity | *Audit In Progress* |
+| [Onchain Heroes <> MoG (Maze of Gains)](https://www.onchainheroes.xyz/) | GameFi, Vaults, Proxies | Solidity | [📄](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/Onchain-Heroes-MazeOfGains-Security-Review.pdf) |
 
 
 
