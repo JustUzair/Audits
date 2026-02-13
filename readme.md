@@ -25,7 +25,7 @@ For private audits or collaboration, please reach out to me on Twitter [*@0xJust
 | [Berachain <> Berachain-Governance ](/) | Governance | Solidity | [📄 TBA](/) |
 | [Berachain <> Berachain-Proof-Of-Liquidity ](/) | Staking | Solidity | [📄 TBA](/) | 
 
-<!-- Check out the issues [here](https://gist.github.com/JustUzair/603696b2b6f88b85eed567f5a30600c1) -->
+Check out the issues [here](https://gist.github.com/JustUzair/603696b2b6f88b85eed567f5a30600c1)
 
 ---
 
