@@ -10,9 +10,11 @@ For private audits or collaboration, please reach out to me on Twitter [*@0xJust
 
 - [Aggregated Audits Portfolio](https://audits.sherlock.xyz/watson/JustUzair) -->
 
-Checkout Private Audit Findings here: [Private Audit](https://gist.github.com/JustUzair/603696b2b6f88b85eed567f5a30600c1)
+
 
 ## Engagements
+
+> Checkout Private Audit Findings here: [Private Audits](https://gist.github.com/JustUzair/603696b2b6f88b85eed567f5a30600c1)
 
 ### [Nethermind](https://github.com/NethermindEth/) ![Nethermind Logo](https://avatars.githubusercontent.com/u/43478154?s=20)
 
