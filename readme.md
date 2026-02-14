@@ -15,6 +15,7 @@ For private audits or collaboration, please reach out to me on Twitter [*@0xJust
 ## Engagements
 
 > ✨ Checkout some of the private audit findings for Proof-of-Work in the [github gist](https://gist.github.com/JustUzair/603696b2b6f88b85eed567f5a30600c1)
+
 > ✨ Checkout my Tech Blogs & Security Writeups on [Medium](https://0xjustuzair.medium.com/)
 
 ### [Nethermind](https://github.com/NethermindEth/) ![Nethermind Logo](https://avatars.githubusercontent.com/u/43478154?s=20)
