@@ -40,6 +40,14 @@ For private audits or collaboration, please reach out to me on Twitter [*@0xJust
 | [Onchain Heroes <> MoG (Maze of Gains)](https://www.onchainheroes.xyz/) | GameFi, Vaults, Proxies | Solidity | [📄](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/Onchain-Heroes-MazeOfGains-Security-Review.pdf) |
 
 
+---
+
+### [Rektoff](https://www.rektoff.xyz/) 
+| Protocol | Category | Written in | Status |
+| - | - | :-: | :-: |
+| [MetaLend] | Lending, Borrowing | Solana (Rust) | *Audit In Progress* |
+
+
 
 ---
 
