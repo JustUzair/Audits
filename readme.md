@@ -45,7 +45,7 @@ For private audits or collaboration, please reach out to me on Twitter [*@0xJust
 ### [Rektoff](https://www.rektoff.xyz/) 
 | Protocol | Category | Written in | Status |
 | - | - | :-: | :-: |
-| [MetaLend] | Lending, Borrowing | Solana (Rust) | *Audit In Progress* |
+| MetaLend | Lending, Borrowing | Solana (Rust) | *Audit In Progress* |
 
 
 
