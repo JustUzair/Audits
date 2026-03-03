@@ -1,0 +1,418 @@
+Streaming transaction logs mentioning AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe. Confirmed commitment
+Transaction executed in slot 21:
+  Signature: 3MyEnF4NMfRS56wvXGxjokkBVtbTEpsphKzmK8cLa7HrPdDdyvdp7FPXPSmJsEW2j7RRBhiQVowTYdHWbwZJhFQ7
+  Status: Ok
+  Log Messages:
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe invoke [1]
+    Program log: Instruction: InitializeProtocol
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program log: MetaLend protocol initialized by admin: F3TYUiJeTP7N94XYL9C16yxADAPuanFeHsPJia6zBV8J
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe consumed 9766 of 200000 compute units
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe success
+Transaction executed in slot 22:
+  Signature: 3MyEnF4NMfRS56wvXGxjokkBVtbTEpsphKzmK8cLa7HrPdDdyvdp7FPXPSmJsEW2j7RRBhiQVowTYdHWbwZJhFQ7
+  Status: Ok
+  Log Messages:
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe invoke [1]
+    Program log: Instruction: InitializeProtocol
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program log: MetaLend protocol initialized by admin: F3TYUiJeTP7N94XYL9C16yxADAPuanFeHsPJia6zBV8J
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe consumed 9766 of 200000 compute units
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe success
+Transaction executed in slot 23:
+  Signature: 4VjZqZCirdohASnmuiPcCdLGzM7uVbfN283VdWJ84rqu2h74xiteZU5SqCJXjEqSYrEvESjgRQigBiBgok1LDhWE
+  Status: Ok
+  Log Messages:
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe invoke [1]
+    Program log: Instruction: CreateOracle
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe consumed 8795 of 200000 compute units
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe success
+Transaction executed in slot 24:
+  Signature: 4S7dzX7oNYYK8DEBWrSSjbd1GrNo5N8Ek1UKtGfnaGJZ5U7vCMvgefVUj6vy4oit6NYNtcbLbS6poBugc16mYJii
+  Status: Ok
+  Log Messages:
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe invoke [1]
+    Program log: Instruction: CreateOracle
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe consumed 14795 of 200000 compute units
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe success
+Transaction executed in slot 24:
+  Signature: 2XGabt1WHS7BBK4YyHwbH1pKibJfoLZfH2ebicxvznz9FYUgZjrs2VGq2N6vEgoJ2Yq7PVk3Q6hGnBnHjXfvNQgb
+  Status: Ok
+  Log Messages:
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe invoke [1]
+    Program log: Instruction: CreateMarket
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount3
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4241 of 183141 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount3
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4241 of 171063 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: Market created - Supply: 8Z7kmXUbQdQ3vdWX24F9CgHqbkz9uJgfMzSSDkhsBrao, Collateral: 7GqBw8nE4U5N4LDNyibzbc2J79EpF5qi1X27iYPUNxvt, ID: 1
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe consumed 41687 of 200000 compute units
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe success
+Transaction executed in slot 25:
+  Signature: 2XGabt1WHS7BBK4YyHwbH1pKibJfoLZfH2ebicxvznz9FYUgZjrs2VGq2N6vEgoJ2Yq7PVk3Q6hGnBnHjXfvNQgb
+  Status: Ok
+  Log Messages:
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe invoke [1]
+    Program log: Instruction: CreateMarket
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount3
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4241 of 183141 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount3
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4241 of 171063 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: Market created - Supply: 8Z7kmXUbQdQ3vdWX24F9CgHqbkz9uJgfMzSSDkhsBrao, Collateral: 7GqBw8nE4U5N4LDNyibzbc2J79EpF5qi1X27iYPUNxvt, ID: 1
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe consumed 41687 of 200000 compute units
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe success
+Transaction executed in slot 25:
+  Signature: 5UQ5C7mvGDRgeyxbjtohhgEnH8tByTPvgNvxKL2BeSdctFtNpbhbwEjeH7Nm8ktPZpPrXqgxBY6YGrSXTtNRH1vc
+  Status: Ok
+  Log Messages:
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe invoke [1]
+    Program log: Instruction: InitializeUserDeposit
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program log: User deposit account created for market: 1
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe consumed 10764 of 200000 compute units
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe success
+Transaction executed in slot 26:
+  Signature: 5UQ5C7mvGDRgeyxbjtohhgEnH8tByTPvgNvxKL2BeSdctFtNpbhbwEjeH7Nm8ktPZpPrXqgxBY6YGrSXTtNRH1vc
+  Status: Ok
+  Log Messages:
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe invoke [1]
+    Program log: Instruction: InitializeUserDeposit
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program log: User deposit account created for market: 1
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe consumed 10764 of 200000 compute units
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe success
+Transaction executed in slot 26:
+  Signature: adDHXhKFMXaoxiwZGr3dnu7ayY8QZrruTpMw3XVqX2DzX9iccjtLr3k5zYJGqmcBsY7Pis1ePne4n6wDCGYevfe
+  Status: Ok
+  Log Messages:
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe invoke [1]
+    Program log: Instruction: Supply
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 187172 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: Supply successful: 500000000 tokens → 500000000 cTokens
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe consumed 20372 of 200000 compute units
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe success
+Transaction executed in slot 27:
+  Signature: adDHXhKFMXaoxiwZGr3dnu7ayY8QZrruTpMw3XVqX2DzX9iccjtLr3k5zYJGqmcBsY7Pis1ePne4n6wDCGYevfe
+  Status: Ok
+  Log Messages:
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe invoke [1]
+    Program log: Instruction: Supply
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 187172 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: Supply successful: 500000000 tokens → 500000000 cTokens
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe consumed 20372 of 200000 compute units
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe success
+Transaction executed in slot 28:
+  Signature: 3n3jD59RrhZnWTL4aQjCLb7b57M47NSWoXDWeu87ceqhXfQvbfE7Be4uMeSM3YaegH9uYm14DnqTKCYEs488zbNA
+  Status: Ok
+  Log Messages:
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe invoke [1]
+    Program log: Instruction: Borrow
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 181952 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 174146 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: Borrow successful: 100000000 collateral → 200000000 supply tokens
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe consumed 33444 of 200000 compute units
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe success
+Transaction executed in slot 29:
+  Signature: 5zZPe8o1rq8YNHpJgztbnnankZLLH3kxihSXCqCnVFBsQYKq58b8QhL1GSRp7PtHCjr3XM8ZNdhBVd2kDT68FSrc
+  Status: Ok
+  Log Messages:
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe invoke [1]
+    Program log: Instruction: InitializeUserDeposit
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program log: User deposit account created for market: 1
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe consumed 10764 of 200000 compute units
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe success
+Transaction executed in slot 29:
+  Signature: 4VM7uxEvJzvbSVknPw7xrHRh3fQy3yHTYU8TFwpXiaDmYCh7oocHZ3ACH1Acvkzxy1ZBMuSoPz7VbTFaL8qsHtuq
+  Status: Ok
+  Log Messages:
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe invoke [1]
+    Program log: Instruction: Supply
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 186614 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: Supply successful: 300000000 tokens → 299994001 cTokens
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe consumed 20930 of 200000 compute units
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe success
+Transaction executed in slot 30:
+  Signature: 4VM7uxEvJzvbSVknPw7xrHRh3fQy3yHTYU8TFwpXiaDmYCh7oocHZ3ACH1Acvkzxy1ZBMuSoPz7VbTFaL8qsHtuq
+  Status: Ok
+  Log Messages:
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe invoke [1]
+    Program log: Instruction: Supply
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 186614 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: Supply successful: 300000000 tokens → 299994001 cTokens
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe consumed 20930 of 200000 compute units
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe success
+Transaction executed in slot 30:
+  Signature: 2kK2LHUWyAo4riaix2399bvuB8exnsdntoejixcyPh2EDZpvnQBNg1Lh3Ys7jjxsbetvh2SropxSzQppenRrinoL
+  Status: Ok
+  Log Messages:
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe invoke [1]
+    Program log: Instruction: Borrow
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 182350 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 174544 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: Borrow successful: 100000000 collateral → 200000000 supply tokens
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe consumed 33046 of 200000 compute units
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe success
+Transaction executed in slot 31:
+  Signature: 2kK2LHUWyAo4riaix2399bvuB8exnsdntoejixcyPh2EDZpvnQBNg1Lh3Ys7jjxsbetvh2SropxSzQppenRrinoL
+  Status: Ok
+  Log Messages:
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe invoke [1]
+    Program log: Instruction: Borrow
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 181952 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 174146 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: Borrow successful: 100000000 collateral → 200000000 supply tokens
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe consumed 33444 of 200000 compute units
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe success
+Transaction executed in slot 32:
+  Signature: 5xEraJpYE2tamvPrJKLJwrj6ghgojKFfSAbkE5GEybFXBFgemkVendaWUGEHjwyGanjTpoAU5N1FxvQpHdJnubtV
+  Status: Ok
+  Log Messages:
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe invoke [1]
+    Program log: Instruction: UpdateOraclePrice
+    Program log: Oracle price updated to: 1800000000 at slot: 32
+    Program log: NOTE: This function is for testing/capstone purposes only!
+    Program log: In production, oracle updates would come from authorized price feeds!
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe consumed 4771 of 200000 compute units
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe success
+Transaction executed in slot 33:
+  Signature: 3JA9f3RjU4BKDoDwycsoscCpmg6JkcvqnwotdjK4C7t48ju5b34SxJALPCxsGNhjamN8PZXr3ye4xR13fQ3PU2L5
+  Status: Ok
+  Log Messages:
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe invoke [1]
+    Program log: Instruction: Liquidate
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 183891 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 176948 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: Liquidation successful: 50000000 debt → 55000000 collateral
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe consumed 29565 of 200000 compute units
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe success
+Transaction executed in slot 34:
+  Signature: 4vspsmQ9sh9erJi78cpPDi7y8f7M6cyqz8216cCA94RzEsb9Qn5uAKemV2NkofsZEFd2AWwKecEqjZq8ozcWDGmj
+  Status: Ok
+  Log Messages:
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe invoke [1]
+    Program log: Instruction: UpdateMarketParams
+    Program log: Market parameters updated
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe consumed 2688 of 200000 compute units
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe success
+Transaction executed in slot 35:
+  Signature: 4vspsmQ9sh9erJi78cpPDi7y8f7M6cyqz8216cCA94RzEsb9Qn5uAKemV2NkofsZEFd2AWwKecEqjZq8ozcWDGmj
+  Status: Ok
+  Log Messages:
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe invoke [1]
+    Program log: Instruction: UpdateMarketParams
+    Program log: Market parameters updated
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe consumed 2688 of 200000 compute units
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe success
+Transaction executed in slot 37:
+  Signature: 4RCZPhjWTgNAhTVwbGzt47FrqjT1iw8UqhTj6oy88GiSJ2ueHkTrbnFePUi6royFHDjp1XwmDWnBEtSZdJMyWJyt
+  Status: Ok
+  Log Messages:
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe invoke [1]
+    Program log: Instruction: InitializeUserDeposit
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program log: User deposit account created for market: 1
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe consumed 10764 of 200000 compute units
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe success
+Transaction executed in slot 38:
+  Signature: vzY3ByK9KWXbvcERvJ7dxZkamrTxYBAPm8AiH5sNdT2zdSYxaksdSg3AeTCSGzJk7mNc1vdZedGXQvWTA9nkDxX
+  Status: Ok
+  Log Messages:
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe invoke [1]
+    Program log: Instruction: CloseUserDeposit
+    Program log: User deposit account closed, 1900080 lamports returned
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe consumed 2208 of 200000 compute units
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe success
+Transaction executed in slot 44:
+  Signature: 3iVPsLQodKNCvsvdQDswszmD5Rnhe8DD53j7j31gfEavGt9kzYU7RBq1sukyVhUX1UaeqGo8GNVm7AQJQmHqchZq
+  Status: Ok
+  Log Messages:
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe invoke [1]
+    Program log: Instruction: CreateOracle
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe consumed 11795 of 200000 compute units
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe success
+Transaction executed in slot 45:
+  Signature: 5eooMEzGZvjFRSouhbUjXYVYDnSSe4m3aWhRKeofaEAiN66fB3FViMK3efgPBqMWrKrhrTj7S4q3dhLGeE37fSAh
+  Status: Ok
+  Log Messages:
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe invoke [1]
+    Program log: Instruction: InitializeUserDeposit
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program log: User deposit account created for market: 1
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe consumed 12264 of 200000 compute units
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe success
+Transaction executed in slot 46:
+  Signature: 4naLciGwi1Kh9ZMNdWKwbyVJyVdjSx12jGE4E9GeVkXpC9h5ArVTEDxginFYLQF31PWX3T9GXsxfc72Zt2EPM2eY
+  Status: Ok
+  Log Messages:
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe invoke [1]
+    Program log: Instruction: Borrow
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 181952 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 174146 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: Borrow successful: 100000000 collateral → 400000000 supply tokens
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe consumed 33444 of 200000 compute units
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe success
+Transaction executed in slot 50:
+  Signature: 4sRoASksRmv1M8bKuZd2gCdjNRt3c8VRgdEUxqZxMwTFjQfK1T1awoVZx5jVHx3VKGDrCrfV1KAqB19pjcgwQXSK
+  Status: Ok
+  Log Messages:
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe invoke [1]
+    Program log: Instruction: InitializeUserDeposit
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program log: User deposit account created for market: 1
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe consumed 10764 of 200000 compute units
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe success
+Transaction executed in slot 51:
+  Signature: 5xXT8UWuQrPBdD9kmjDB6erQwffRAcpdSmu3baSQzy33X5Q4zM97nrQYpFUCw1kcNowNoiohbjxXfHfGceApJmka
+  Status: Ok
+  Log Messages:
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe invoke [1]
+    Program log: Instruction: Supply
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 186614 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: Supply successful: 100000000 tokens → 99995001 cTokens
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe consumed 20931 of 200000 compute units
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe success
+Transaction executed in slot 52:
+  Signature: 4nsSFFMkb7a5FtArc8jy62wByoN2yZShivvsGJvmQN7258LBisXn1eYJfvyWSWKCJnQPkTkQV14dBBgz9tuz7s6e
+  Status: Ok
+  Log Messages:
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe invoke [1]
+    Program log: Instruction: Supply
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 186614 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: Supply successful: 1000000 tokens → 999941 cTokens
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe consumed 20903 of 200000 compute units
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe success
+Transaction executed in slot 56:
+  Signature: 39XdpKi21twWFLNnXRzLwmSmB796N35f11ua6hMUDBiU556TAAsL5r2KyWriZGmjmzoh1154z3wPJMTxnMRxzYkN
+  Status: Ok
+  Log Messages:
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe invoke [1]
+    Program log: Instruction: InitializeUserDeposit
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program log: User deposit account created for market: 1
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe consumed 10764 of 200000 compute units
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe success
+Transaction executed in slot 57:
+  Signature: 39XdpKi21twWFLNnXRzLwmSmB796N35f11ua6hMUDBiU556TAAsL5r2KyWriZGmjmzoh1154z3wPJMTxnMRxzYkN
+  Status: Ok
+  Log Messages:
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe invoke [1]
+    Program log: Instruction: InitializeUserDeposit
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program log: User deposit account created for market: 1
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe consumed 10764 of 200000 compute units
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe success
+Transaction executed in slot 58:
+  Signature: ambmePtG5otKVKsMKqHSDfCpvTjR6ggcNCKaT1ssXTEAn5QeStZvfZNELkmhjVP1f8vsLsGK59Gcauaxb3eJttV
+  Status: Ok
+  Log Messages:
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe invoke [1]
+    Program log: Instruction: Borrow
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 181952 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 174146 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: Borrow successful: 100000000 collateral → 100000000 supply tokens
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe consumed 33444 of 200000 compute units
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe success
+Transaction executed in slot 109:
+  Signature: 37KFdJJ5ftm5aKcpJnsuxUNaaQco5fgzTzRVzNSwEfpHiH2gtyi81JzLqdxftTG8nxZC8UCDFwHup53iaUQJkCh4
+  Status: Ok
+  Log Messages:
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe invoke [1]
+    Program log: Instruction: Repay
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 186538 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: Repay successful: 1 tokens
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe consumed 20558 of 200000 compute units
+    Program AYye92emHVPgnxDHnTEkuuWVLUKF7JHKgWsXysZBZ3qe success
