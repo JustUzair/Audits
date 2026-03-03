@@ -993,25 +993,23 @@ As per the comments, the `2%` annual rate is assumed over `800,000 slots` over a
 
 The Solana SDK ([`sdk/src/clock.rs`](https://docs.rs/solana-clock/latest/src/solana_clock/lib.rs.html#1-188)) defines:
 
-$$\text{DEFAULT\_TICKS\_PER\_SLOT} = 64$$
-
-$$\text{DEFAULT\_TICKS\_PER\_SECOND} = 160$$
-
-$$\text{DEFAULT\_MS\_PER\_SLOT} = \frac{1{,}000 \times 64}{160} = 400 \text{ ms}$$
-
-$$\text{DEFAULT\_SLOTS\_PER\_EPOCH} = \frac{2 \times 160 \times 86{,}400}{64} = 432{,}000$$
-
-$$\text{slots\_per\_year} = 432{,}000 \times \frac{365.25}{2} \approx 78{,}894{,}000$$
+| Constant | Value |
+|---|---|
+| `DEFAULT_TICKS_PER_SLOT` | 64 |
+| `DEFAULT_TICKS_PER_SECOND` | 160 |
+| `DEFAULT_MS_PER_SLOT` | 400 ms |
+| `DEFAULT_SLOTS_PER_EPOCH` | 432,000 |
+| `slots_per_year` | ≈ 78,894,000 |
 
 The correct per-slot rate would be:
 
-$$r_{\text{slot}}^{\text{correct}} = \frac{0.02 \times 10^9}{78{,}894{,}000} \approx 0.253$$
+$$r_{\texttt{slot}}^{\texttt{correct}} = \frac{0.02 \times 10^9}{78{,}894{,}000} \approx 0.253$$
 
 Since this is a `u128`, it truncates to **0**. The protocol therefore has a binary failure
 
 The actual effective APR from the that the current calculation yields is:
 
-$$\text{APR}_{\text{actual}} = r_{\text{slot}} \times \frac{\text{slots\_per\_year}}{\text{SCALING\_FACTOR}} = 25 \times \frac{78{,}894{,}000}{10^9} \approx 1.972 = 197.2\%$$
+$$\texttt{APR}_{\texttt{actual}} = r_{\texttt{slot}} \times \frac{\texttt{slots\_per\_year}}{\texttt{SCALING\_FACTOR}} = 25 \times \frac{78{,}894{,}000}{10^9} \approx 1.972 = 197.2\%$$
 
 #### Overcharge Table (100 USDC loan)
 
