@@ -39,6 +39,13 @@ For private audits or collaboration, please reach out to me on Twitter [*@0xJust
 | [Abster <> FreeFall](https://www.abster.xyz/) | GameFi, LP | Solidity | *Report In Progress* |
 | [Onchain Heroes <> MoG (Maze of Gains)](https://www.onchainheroes.xyz/) | GameFi, Vaults, Proxies | Solidity | [📄](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/Onchain-Heroes-MazeOfGains-Security-Review.pdf) |
 
+---
+
+### [RadCipher](https://radcipher.com/) 
+| Protocol | Category | Written in | Status |
+| - | - | :-: | :-: |
+| Arkhive Protocol <> Arkhive Token | Token-2022, Governance | Solana (Rust) | **Audit in Progress** |
+
 
 ---
 
@@ -64,12 +71,12 @@ For private audits or collaboration, please reach out to me on Twitter [*@0xJust
 
 | Contest | Category | No. of Findings | Total |
 | - | - | - | - |
-| [Sequence Transaction Rails](https://code4rena.com/audits/2025-11-sequence-transaction-rails) | Multichain Wallet Infra | `2L` | 2 |
-| [Reflector V3](https://code4rena.com/audits/2025-10-reflector-v3) | Oracle (Rust - Soroban) | `1H, 1M, 2L` | 4 |
-| [SecondSwap](https://code4rena.com/audits/2024-12-secondswap) | Token Vesting, Marketplace | `1M` | 1 |
-| [Omni Network](https://cantina.xyz/competitions/d139882b-2d3a-49ac-9849-9dccef584090) | Blockchain Network, Bridge | `1 QA` | 1 |
-| [Phi](https://code4rena.com/audits/2024-08-phi) | On-Chain Identity, NFT | `1H` | 1 |
-| [TraitForge](https://code4rena.com/audits/2024-07-traitforge) | NFT | `1H, 1M` | 2 |
+| Sequence Transaction Rails | Multichain Wallet Infra | `2L` | 2 |
+| Reflector V3 | Oracle (Rust - Soroban) | `1H, 1M, 2L` | 4 |
+| SecondSwap| Token Vesting, Marketplace | `1M` | 1 |
+| Omni Network | Blockchain Network, Bridge | `1 QA` | 1 |
+| Phi | On-Chain Identity, NFT | `1H` | 1 |
+| TraitForge | NFT | `1H, 1M` | 2 |
 
 
 <!-- | [CONTEST NAME](<CONTEST-LINK>) | <CATEGORY> | RANKING 🥇🥈🥉🎖️ | [📄](/contests/pdf/<FILENAME>) | #NO | -->
