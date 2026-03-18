@@ -44,7 +44,7 @@ For private audits or collaboration, please reach out to me on Twitter [*@0xJust
 ### [RadCipher](https://radcipher.com/) 
 | Protocol | Category | Written in | Status |
 | - | - | :-: | :-: |
-| Arkhive Protocol <> Arkhive Token | Token-2022, Governance | Solana (Rust) | **Audit in Progress** |
+| Arkhive Protocol <> Arkhive Token | Token-2022, Governance | Solana (Rust) | *Report in Progress* |
 
 
 ---
