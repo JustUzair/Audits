@@ -1,7 +1,10 @@
 # 0xJustUzair a.k.a JustUzair's Portfolio
 ## About 0xJustUzair
 Web3 Security Researcher | Solidity, Rust, Solana, Move | prev. Security Researcher at Nethermind | 2x Web3 Hackathon Winner
-For private audits or collaboration, please reach out to me on Twitter [*@0xJustUzair*](https://twitter.com/0xJustUzair).
+
+`32+ High/Medium` findings across private engagements and public audit contests, covering EVM (Solidity, Cairo) and Solana (Rust) ecosystems.
+
+For private audits or collaboration, reach out on Twitter [*@0xJustUzair*](https://twitter.com/0xJustUzair).
 
 ## Engagements
 > ✨ Checkout some of the private audit findings for Proof-of-Work in the [github gist](https://gist.github.com/JustUzair/603696b2b6f88b85eed567f5a30600c1)
