@@ -14,14 +14,15 @@ For private audits or collaboration, reach out on Twitter [*@0xJustUzair*](https
 ### [Nethermind](https://github.com/NethermindEth/) ![Nethermind Logo](https://avatars.githubusercontent.com/u/43478154?s=20)
 | Protocol | Category | Written in | Findings | Report |
 | - | - | :-: | :-: | :-: |
-| [Swell <> Symbiotic Adapter](https://app.symbiotic.fi/restake/) | Re-staking, Utility | Solidity | `2L, 1I` | [📄 TBA](/) |
-| [TxFusion <> Tsuko Paymaster-As-A-Service](https://app.txsync.io/tsuko) | AA Paymasters | Solidity | `TBA` | [📄 TBA](/) |
-| [DefX <> DefX-Bridge](https://docs.defx.com/docs) | Bridge | Solidity | `1H, 3M, 2L, 1I` | [📄 TBA](/) |
-| [Cartridge <> Cartdrige-Controller](https://docs.cartridge.gg/controller/overview) | Gaming, Wallets | Cairo | `TBA` | [📄 TBA](/) |
-| [zBanc <> Wilderworld ](/) | ERC20, ERC4626 | Solidity | `TBA` | [📄 TBA](/) |
+| [Swell <> Symbiotic Adapter](https://app.symbiotic.fi/restake/) | Re-staking, Utility | Solidity | `2L, 1I` | [📄?](/) |
+| [TxFusion <> Tsuko Paymaster-As-A-Service](https://app.txsync.io/tsuko) | AA Paymasters | Solidity | `TBA` | [📄?](/) |
+| [DefX <> DefX-Bridge](https://docs.defx.com/docs) | Bridge | Solidity | `1H, 3M, 2L, 1I` | [📄?](/) |
+| [Cartridge <> Cartdrige-Controller](https://docs.cartridge.gg/controller/overview) | Gaming, Wallets | Cairo | `TBA` | [📄?](/) |
+| [zBanc <> Wilderworld ](/) | ERC20, ERC4626 | Solidity | `TBA` | [📄?](/) |
 | [Mangrove <> Mangrove-Vault ](/) | Vault, Oracles | Solidity | `1M, 1L, 1I` | [📄](https://github.com/NethermindEth/PublicAuditReports/blob/main/NM0339-FINAL_MANGROVE_VAULT.pdf) |
-| [Berachain <> Berachain-Governance ](/) | Governance | Solidity | `TBA` | [📄 TBA](/) |
-| [Berachain <> Berachain-Proof-Of-Liquidity ](/) | Staking | Solidity | `TBA` | [📄 TBA](/) |
+| [Berachain <> Berachain-Governance ](/) | Governance | Solidity | `TBA` | [📄?](/) |
+| [Berachain <> Berachain-Proof-Of-Liquidity ](/) | Staking | Solidity | `4I` | [📄?](/) |
+| [Berachain <> BEX ](/) | DEX | Solidity | `TBA` | [📄?](/) |
 
 ---
 
