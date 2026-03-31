@@ -15,7 +15,7 @@ For private audits or collaboration, reach out on Twitter [*@0xJustUzair*](https
 | Protocol | Category | Written in | Findings | Report |
 | - | - | :-: | :-: | :-: |
 | [Swell <> Symbiotic Adapter](https://app.symbiotic.fi/restake/) | Re-staking, Utility | Solidity | `2L, 1I` | [📄?](/) |
-| [TxFusion <> Tsuko Paymaster-As-A-Service](https://app.txsync.io/tsuko) | AA Paymasters | Solidity | `TBA` | [📄?](/) |
+| [TxFusion <> Tsuko Paymaster-As-A-Service](https://app.txsync.io/tsuko) | AA Paymasters | Solidity | `1L 6I` | [📄?](/) |
 | [DefX <> DefX-Bridge](https://docs.defx.com/docs) | Bridge | Solidity | `1H, 3M, 2L, 1I` | [📄?](/) |
 | [Cartridge <> Cartdrige-Controller](https://docs.cartridge.gg/controller/overview) | Gaming, Wallets | Cairo | `TBA` | [📄?](/) |
 | [zBanc <> Wilderworld ](/) | ERC20, ERC4626 | Solidity | `1L` | [📄?](/) |
