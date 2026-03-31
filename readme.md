@@ -18,18 +18,18 @@ For private audits or collaboration, reach out on Twitter [*@0xJustUzair*](https
 | [TxFusion <> Tsuko Paymaster-As-A-Service](https://app.txsync.io/tsuko) | AA Paymasters | Solidity | `TBA` | [📄?](/) |
 | [DefX <> DefX-Bridge](https://docs.defx.com/docs) | Bridge | Solidity | `1H, 3M, 2L, 1I` | [📄?](/) |
 | [Cartridge <> Cartdrige-Controller](https://docs.cartridge.gg/controller/overview) | Gaming, Wallets | Cairo | `TBA` | [📄?](/) |
-| [zBanc <> Wilderworld ](/) | ERC20, ERC4626 | Solidity | `TBA` | [📄?](/) |
+| [zBanc <> Wilderworld ](/) | ERC20, ERC4626 | Solidity | `1L` | [📄?](/) |
 | [Mangrove <> Mangrove-Vault ](/) | Vault, Oracles | Solidity | `1M, 1L, 1I` | [📄](https://github.com/NethermindEth/PublicAuditReports/blob/main/NM0339-FINAL_MANGROVE_VAULT.pdf) |
-| [Berachain <> Berachain-Governance ](/) | Governance | Solidity | `TBA` | [📄?](/) |
+| [Berachain <> Berachain-Governance ](/) | Governance | Solidity | `1L 1I` | [📄?](/) |
 | [Berachain <> Berachain-Proof-Of-Liquidity ](/) | Staking | Solidity | `4I` | [📄?](/) |
-| [Berachain <> BEX ](/) | DEX | Solidity | `TBA` | [📄?](/) |
+| [Berachain <> BEX ](/) | DEX | Solidity | `1I` | [📄?](/) |
 
 ---
 
 ### [Shieldify](https://www.shieldify.org/)
 | Protocol | Category | Written in | Findings | Status |
 | - | - | :-: | :-: | :-: |
-| [Abster <> FreeFall](https://www.abster.xyz/) | GameFi, LP | Solidity | `2H, 3M, 3L` | *Report In Progress* |
+| [Abster <> FreeFall](https://www.abster.xyz/) | GameFi, LP | Solidity | `1H, 3M, 3L, 1I` | [📄](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/Abster-Security-Review.pdf) |
 | [Onchain Heroes <> MoG (Maze of Gains)](https://www.onchainheroes.xyz/) | GameFi, Vaults, Proxies | Solidity | `2L, 4I` | [📄](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/Onchain-Heroes-MazeOfGains-Security-Review.pdf) |
 
 ---
