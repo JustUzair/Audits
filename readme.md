@@ -17,7 +17,7 @@ For private audits or collaboration, reach out on Twitter [*@0xJustUzair*](https
 | [Swell <> Symbiotic Adapter](https://app.symbiotic.fi/restake/) | Re-staking, Utility | Solidity | `2L, 1I` | [📄?](/) |
 | [TxFusion <> Tsuko Paymaster-As-A-Service](https://app.txsync.io/tsuko) | AA Paymasters | Solidity | `1L 6I` | [📄?](/) |
 | [DefX <> DefX-Bridge](https://docs.defx.com/docs) | Bridge | Solidity | `1H, 3M, 2L, 1I` | [📄?](/) |
-| [Cartridge <> Cartdrige-Controller](https://docs.cartridge.gg/controller/overview) | Gaming, Wallets | Cairo | `TBA` | [📄?](/) |
+| [Cartridge <> Cartdrige-Controller](https://docs.cartridge.gg/controller/overview) | Gaming, Wallets | Cairo | `1L` | [📄?](/) |
 | [zBanc <> Wilderworld ](/) | ERC20, ERC4626 | Solidity | `1L` | [📄?](/) |
 | [Mangrove <> Mangrove-Vault ](/) | Vault, Oracles | Solidity | `1M, 1L, 1I` | [📄](https://github.com/NethermindEth/PublicAuditReports/blob/main/NM0339-FINAL_MANGROVE_VAULT.pdf) |
 | [Berachain <> Berachain-Governance ](/) | Governance | Solidity | `1L 1I` | [📄?](/) |
