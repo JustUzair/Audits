@@ -29,7 +29,7 @@ For private audits or collaboration, reach out on Twitter [*@0xJustUzair*](https
 | Protocol | Category | Written in | Findings | Status |
 | - | - | :-: | :-: | :-: |
 | [APTree <> APTree Earn](https://aptree.gitbook.io/aptree-earn) | Vaults, LP, Bridge, Yield Aggregation | Move (Aptos) | `2H, 4M, 2L, 2I` | *Report in Progress* |
-| [Castr.fun](https://castr.fun/) | Liquidity Provisioning (Velodrome), NFT based Lock Positions & Rewards, Custom ERC20 Vesting   | Move (Aptos) | `2H, 4M, 2L, 2I` | *Report in Progress* |
+| [Castr.fun](https://castr.fun/) | Liquidity Provisioning (Velodrome), NFT based Lock Positions & Rewards, Custom ERC20 Vesting   | Solidity | `3H, 5M` | *Report in Progress* |
 
 
 ---
